@@ -42,36 +42,37 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEAL
 |                  Feature                | 1 project | unlimited |  unlimited  |  unlimited |  unlimited |  unlimited   |  unlimited |
 |                                         |           |  projects |  projects   |  projects  |   projects |  projects    |  projects  |
 +-----------------------------------------+-----------+-----------+-------------+------------+------------+--------------+------------+
-| Individual (assigned to person,         |    yes    |    yes     |      no    |     no     |            |              |            |
+| Individual (assigned to person,         |    yes    |    yes     |      no    |     no     |     no     |      no      |     no     |
 | can be used only by 1 person)           |           |            |            |            |            |              |            |
 +-----------------------------------------+-----------+------------+------------+------------+------------+--------------+------------+
-| Team (assigned to company/organization, |     no    |     no     |      no    |            |            |              |            |
+| Team (assigned to company/organization, |     no    |     no     |     yes    |     yes    |     yes    |     yes      |     yes    |
 | can be used by X employees)             |           |            |            |            |            |              |            | 
 +-----------------------------------------+-----------+------------+------------+------------+------------+--------------+------------+
-| Number of people (owners/employees)     |     1     |     1      |      1-3   | No limit * |            |              |            |
+| Number of people (owners/employees)     |     1     |     1      |     1-3*   |    4-6*    |    7-9*    |    10-15*    |  No limit* |
 | who can use MDB                         |           |            |            |            |            |              |            |
 +-----------------------------------------+-----------+------------+------------+------------+------------+--------------+------------+
-| Number of website/apps                  |     1     |  No limit  |  No limit  |  No limit  |            |              |            |
+| Number of website/apps                  |     1     |  No limit  |  No limit  |  No limit  |  No limit  |   No limit   |  No limit  |
 | which can be created                    |           |            |            |            |            |              |            |
 +-----------------------------------------+-----------+------------+------------+------------+------------+--------------+------------+
-| Creation of an HTML/CSS template        |           |            |            |            |            |              |            | | for sale (applicable only for MDB PRO,  |           |            |            |            |            |              |            |
+| Creation of an HTML/CSS template        |           |            |            |            |            |              |            | | for sale (applicable only for MDB PRO,  |    no     |    yes     |     yes    |     yes    |    yes     |     yes      |     yes    |
 | not for Templates Packs)                |           |            |            |            |            |              |            |
 +-----------------------------------------+-----------+------------+------------+------------+------------+--------------+------------+
-| Creation of a theme/template            |           |            |            |            |            |              |            |
+| Creation of a theme/template            |    no     |     no     |     no     |     no     |     no     |      no      |     no     |
 | for CMS sale                            |           |            |            |            |            |              |            |
 +-----------------------------------------+-----------+------------+------------+------------+------------+--------------+------------+
-| Create products redistributed           |      no   |            |            |            |            |              |            |
+| Create products redistributed           |           |            |            |            |            |              |            |
 | in automated way (i.e. CMS themes       |           |            |            |            |            |              |            |
-| sold on ThemeForest or end              |           |            |            |            |            |              |            |
+| sold on ThemeForest or end              |     no    |     no     |     no     |     no     |     no     |       no     |     no     |
 | product which can download              |           |            |            |            |            |              |            |
 | from customer site                      |           |            |            |            |            |              |            |
-| including MDB source code) **           |           |            |            |            |            |              |            |
+| including MDB source code)**            |           |            |            |            |            |              |            |
 +-----------------------------------------+-----------+------------+------------+------------+------------+--------------+------------+
-| Creation of online/offline generator    |      no   |            |            |         no |            |              |            |
+| Creation of online/offline generator    |      no   |     no     |     no     |     no     |      no    |      no      |     no     |
 | basedon our products                    |           |            |            |            |            |              |            |
 +-----------------------------------------+-----------+------------+------------+------------+------------+--------------+------------+
-| Embed MDB into open source project      |           |            |            |            |            |              |            |
+| Embed MDB into open source project      |     no    |     no     |     no     |     no     |    no      |      no      |     no     |
 +-----------------------------------------+-----------+------------+------------+------------+------------+--------------+------------+
+
 * Within the same company. People granted license has to be an official employee of the company. License cover current and 
 future employees
 
