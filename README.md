@@ -1,6 +1,17 @@
 
 <p align="center">
-  <a href="https://mdbootstrap.com/docs/jquery/"><b>Material Design for Bootstrap 4</b></a>
+  <a href="http://mdbootstrap.com">
+    <img width="500" src="https://mdbootstrap.com/img/Marketing/general/logo/huge/mdb.png">
+  </a>
+</p>
+
+<h1 align="center">Material Design for Bootstrap</h1>
+
+<p align="center">
+  <b>400+</b> Material UI elements, <b>600+</b> Material icons, <b>74</b> CSS animations, SASS files, templates, tutorials and many more. <b>Free for personal and commercial </b>. Available jQuery, Angular, React and Vue versions.
+</p>
+<p align="center">
+  Trusted by <b>500 000+</b> developers & designers. Used by such companies like Nike, Samsung, Amazon, IKEA, Sony and NASA.
 </p>
 
 <p align="center">
@@ -16,13 +27,6 @@
   <a href="https://cdnjs.com/libraries/mdbootstrap"><img src="https://img.shields.io/cdnjs/v/mdbootstrap.svg" alt="cdnjs"></a>
   <a href="https://badge.fury.io/js/mdbootstrap"><img src="https://badge.fury.io/js/mdbootstrap.svg" alt="npm"></a>
   <a href="https://twitter.com/intent/tweet/?text=Thanks+@mdbootstrap+for+creating+amazing+and+free+Material+Design+for+Bootstrap+4+UI+KIT%20https://mdbootstrap.com/docs/jquery/&hashtags=javascript,code,webdesign,bootstrap"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>
-</p>
-
-<p align="center">
-  <b>400+</b> Material UI elements, <b>600+</b> Material icons, <b>74</b> CSS animations, SASS files, templates, tutorials and many more. <b>Free for personal and commercial </b>. Available jQuery, Angular, React and Vue versions.
-</p>
-<p align="center">
-  Trusted by <b>500 000+</b> developers & designers. Used by such companies like Nike, Samsung, Amazon, IKEA, Sony and NASA.
 </p>
 
 ________
