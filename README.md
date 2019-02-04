@@ -72,14 +72,9 @@ ________
  - Singup Page
 ```
 
-# Other Technologies
+# PRO Technologies
 
-[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png"/>](https://mdbootstrap.com/docs/angular/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/react.png"/>](https://mdbootstrap.com/docs/react/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png"/>](https://mdbootstrap.com/docs/vue/)
-
-
-
-
- - [Main demo](https://mdbootstrap.com/docs/jquery/components/demo/)
+[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png"/>](https://mdbootstrap.com/products/angular-ui-kit/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/react.png"/>](https://mdbootstrap.com/products/react-ui-kit/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png"/>](https://mdbootstrap.com/products/vue-ui-kit/)
 
 
 # Quick Start
@@ -88,13 +83,6 @@ ________
 
  - [Video Tutorial](https://www.youtube.com/watch?v=cXTThxoywNQ&t=9s)
 
-
-
-# Additional tutorials
-
- - MDB - Bootstrap tutorial - https://mdbootstrap.com/education/bootstrap/
-
- - 
 
 
 # Supported browsers
@@ -152,6 +140,8 @@ ________
 
 
 # Social Media
+
+ - [YouTube](https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA)
 
  - [Twitter](https://twitter.com/MDBootstrap)
 
