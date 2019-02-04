@@ -31,7 +31,7 @@
 
 ________
 
-| Features | MDB Free | MDB PRO  | 
+| Features |⠀ MDB Free⠀ | MDB PRO  | 
 |:--------------------:|:---------------------------:|:----------------------------:|
 | 400+ Basic Components | ✔️| ❌ |
 | 3000+ Premium Components | ❌ | ✔️ | 
@@ -45,25 +45,33 @@ ________
 | JavaScript Modules | ❌ | ✔️ | 
 | 10 Premium Page Templates | ❌ | ✔️ | 
 | Premium Support | ❌ | ✔️ | 
-| GitLab account and MDB Pro repository access | ❌ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ GitLab account and MDB Pro repository access⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
 
 
 ________
 
 
+* Test PRO components - https://mdbootstrap.com/snippets/
+* 5 min Quick Start - https://www.youtube.com/watch?v=ccrJUi39ElQ
 * ChangeLog - https://mdbootstrap.com/docs/jquery/changelog/
 * Documentation - https://mdbootstrap.com/docs/jquery/getting-started/download/
 * Product page - https://mdbootstrap.com/products/jquery-ui-kit/
 * Support - https://mdbootstrap.com/support/
-* Angular - https://mdbootstrap.com/products/angular-ui-kit/
-* React - https://mdbootstrap.com/products/react-ui-kit/
-* Vue - https://mdbootstrap.com/products/vue-ui-kit/
-
-▶️ [Watch our "5 min Quick Start" tutorial](https://www.youtube.com/watch?v=ccrJUi39ElQ)
 
 
-
-
+```
+- Templates
+ - About
+ - Blog post
+ - Blog posts
+ - Contact us
+ - Ecommerce
+ - Landing
+ - Log in
+ - Pricing
+ - Profile
+ - Singup
+```
 
 
 
