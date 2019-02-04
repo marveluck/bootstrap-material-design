@@ -31,7 +31,7 @@
 
 ________
 
-| Features |⠀ MDB Free⠀ |⠀ MDB PRO ⠀ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Features⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|⠀ MDB Free⠀ |⠀ MDB PRO ⠀ | 
 |:--------------------:|:---------------------------:|:----------------------------:|
 |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 400+ Basic Components⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️| ✔️ |
 |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 3000+ Premium Components⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
@@ -57,20 +57,19 @@ ________
 * Documentation - https://mdbootstrap.com/docs/jquery/getting-started/download/
 * Product page - https://mdbootstrap.com/products/jquery-ui-kit/
 * Support - https://mdbootstrap.com/support/
-
+* Templates - https://mdbootstrap.com/templates-2/
 
 ```
-- Templates
- - About
- - Blog post
- - Blog posts
- - Contact us
- - Ecommerce
- - Landing
- - Log in
- - Pricing
- - Profile
- - Singup
+ - About Us
+ - Blog Post
+ - Login Page
+ - Contact Us
+ - E-commerce Page
+ - Landing Page
+ - Blog Posts
+ - Pricing Page
+ - Profile Page
+ - Singup Page
 ```
 
 
