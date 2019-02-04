@@ -31,9 +31,9 @@
 
 ________
 
-| Features |⠀ MDB Free⠀ | MDB PRO  | 
+| Features |⠀ MDB Free⠀ |⠀ MDB PRO ⠀ | 
 |:--------------------:|:---------------------------:|:----------------------------:|
-| 400+ Basic Components | ✔️| ❌ |
+| 400+ Basic Components | ✔️| ✔️ |
 | 3000+ Premium Components | ❌ | ✔️ | 
 | Detailed Documentation | ✔️ | ✔️ | 
 | SASS, CSS, JS, HTML files | ✔️ | ✔️ | 
@@ -45,7 +45,7 @@ ________
 | JavaScript Modules | ❌ | ✔️ | 
 | 10 Premium Page Templates | ❌ | ✔️ | 
 | Premium Support | ❌ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ GitLab account and MDB Pro repository access⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ GitLab account and MDB Pro repository access⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
 
 
 ________
