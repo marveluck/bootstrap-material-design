@@ -33,18 +33,18 @@ ________
 
 | Features |⠀ MDB Free⠀ |⠀ MDB PRO ⠀ | 
 |:--------------------:|:---------------------------:|:----------------------------:|
-| 400+ Basic Components | ✔️| ✔️ |
-| 3000+ Premium Components | ❌ | ✔️ | 
-| Detailed Documentation | ✔️ | ✔️ | 
-| SASS, CSS, JS, HTML files | ✔️ | ✔️ | 
-| Basic Tutorials | ✔️ | ✔️ | 
-| Premium Tutorials | ❌ | ✔️ | 
-| 50+ Premium Sections | ❌ | ✔️ | 
-| 8 Basic Plugins | ✔️ | ✔️ | 
-| 22 Premium Plugins | ❌ | ✔️ | 
-| JavaScript Modules | ❌ | ✔️ | 
-| 10 Premium Page Templates | ❌ | ✔️ | 
-| Premium Support | ❌ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 400+ Basic Components⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️| ✔️ |
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 3000+ Premium Components⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Detailed Documentation⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ SASS, CSS, JS, HTML files⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Basic Tutorials⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Premium Tutorials⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 50+ Premium Sections⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 8 Basic Plugins⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 22 Premium Plugins⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ JavaScript Modules⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 10 Premium Page Templates⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Premium Support⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
 |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ GitLab account and MDB Pro repository access⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
 
 
