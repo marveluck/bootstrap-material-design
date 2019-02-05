@@ -4,77 +4,72 @@
   </a>
 </p>
 
-<h1 align="center">Material Design for Bootstrap PRO</h1>
+<h1 align="center">Material Design for Bootstrap 4</h1>
 
 <p align="center">
   <a href="https://mdbootstrap.com/products/jquery-ui-kit/" target="_blank">
-    <img width="700" src="https://mdbootstrap.com/wp-content/uploads/2016/11/mdb-pro-2.jpg" alt="logo">
+    <img width="700" src="https://mdbootstrap.com/img/Marketing/products/jquery/mdb-free.jpg" alt="logo">
   </a>
 </p>
 
 <p align="center">
-  ✔️<b>3000+</b> Premium Components - An impressive collection of ready to use, stunning Material Design components.
+  <b>400+</b> material UI elements, <b>600+</b> material icons, <b>74</b> CSS animations, SASS files, templates, tutorials and many more. Free for personal and commercial use. Available jQuery, Angular, React and Vue versions
 </p>
 <p align="center">
-  ✔️<b>Premium sections, plugins & templates</b> - Save huge amounts of time on website/application creation using our predefined sections and templates.
-</p>
-<p align="center">
-  ✔️<b>Premium tutorials</b> - Full access to the world's most popular tutorials for Bootstrap 4.
-    </p>
-<p align="center">
-  ✔️<b>Premium support</b> - With the Premium Support all your issues will be treated as a priority and our team will make their fullest efforts to help you with any questions related to MDB.
-    </p>
-<p align="center">
-  ✔️<b>Access to MDB Pro repository</b> - An private GitLab account dedicated to MDB Pro users.
+  Trusted by <b>800 000+</b> developers & designers. Used by such a companies like Nike, Samsung, Amazon, Ikea, Sony and NASA.
 </p>
 
 
 ________
 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Features⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|⠀ MDB Free⠀ |⠀ MDB PRO ⠀ | 
-|:--------------------:|:---------------------------:|:----------------------------:|
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 400+ Basic Components⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️| ✔️ |
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 3000+ Premium Components⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Detailed Documentation⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ SASS, CSS, JS, HTML files⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Basic Tutorials⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Premium Tutorials⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 50+ Premium Sections⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 8 Basic Plugins⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 22 Premium Plugins⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ JavaScript Modules⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 10 Premium Page Templates⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Premium Support⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ GitLab account and MDB Pro repository access⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
 
+## Table of Contents
+
+* [Other Technologies](#other-technologies) 
+* [Most important features](#most-important-features) 
+* [Demo](#demo)
+* [Quick Start](#quick-start)
+* [How to install](#how-to-install)
+* [Additional tutorials](#additional-tutorials)
+* [Documentation](#documentation)
+* [MDBootstrap on CDNJS](#mdbootstrap-on-cdnjs)
+* [Supported Browsers](#supported-browsers)
+* [Contributing](#contributing)
+* [Highlights](#highlights)
+* [Social Media](#social-media)
+* [Useful Links](#useful-links)
 
 ________
 
 
-* Test PRO components - https://mdbootstrap.com/snippets/
-* 5 min Quick Start - https://www.youtube.com/watch?v=ccrJUi39ElQ
-* ChangeLog - https://mdbootstrap.com/docs/jquery/changelog/
-* Documentation - https://mdbootstrap.com/docs/jquery/getting-started/download/
-* Product page - https://mdbootstrap.com/products/jquery-ui-kit/
-* Support - https://mdbootstrap.com/support/
-* Templates - https://mdbootstrap.com/templates-2/
+# Other Technologies
 
-```
- - About Us
- - Blog Post
- - Login Page
- - Contact Us
- - E-commerce Page
- - Landing Page
- - Blog Posts
- - Pricing Page
- - Profile Page
- - Singup Page
-```
+[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png"/>](https://mdbootstrap.com/docs/angular/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/react.png"/>](https://mdbootstrap.com/docs/react/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png"/>](https://mdbootstrap.com/docs/vue/)
 
-# PRO Technologies
 
-[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png"/>](https://mdbootstrap.com/products/angular-ui-kit/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/react.png"/>](https://mdbootstrap.com/products/react-ui-kit/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png"/>](https://mdbootstrap.com/products/vue-ui-kit/)
+
+# Most important features
+
+1. Lots of tutorials
+
+2. Fully responsive
+
+3. Plenty of useful templates
+
+4. Easy installation
+
+5. Easy to use and customize
+
+6. Active community
+
+7. Dedicated support forum
+
+8. Detailed documentation
+
+
+# Demo
+
+ - [Main demo](https://mdbootstrap.com/docs/jquery/components/demo/)
 
 
 # Quick Start
@@ -83,6 +78,31 @@ ________
 
  - [Video Tutorial](https://www.youtube.com/watch?v=cXTThxoywNQ&t=9s)
 
+
+# How to install
+
+You can install MDBootstrap using NPM:
+
+```
+npm install mdbootstrap
+```
+
+# Additional tutorials
+
+ - [MDB - Bootstrap tutorial](https://mdbootstrap.com/education/bootstrap/)
+
+ - [MDB - WordPress tutorial](https://mdbootstrap.com/education/wordpress/)
+
+
+# MDBootstrap on CDNJS:
+
+`<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.7.1/css/mdb.min.css" />`
+
+`<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.7.1/js/mdb.min.js"></script>`
+
+# Documentation
+
+ - [Huge, detailed documentation available online](https://mdbootstrap.com/)
 
 
 # Supported browsers
@@ -116,6 +136,72 @@ Similarly, the latest versions of most desktop browsers are supported.
 Please read [CONTRIBUTING.md](https://github.com/mdbootstrap/bootstrap-material-design/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 
+# Highlights 
+
+**Components**  
+Choose **among 400+  predefined components**. Each component is ready to use and fits perfectly with each other like LEGO bricks. Take, combine, enjoy!
+
+
+**Modularity**  
+Material Design for Bootstrap comes with both compiled, ready-to-use libraries including all features as well as modules for CSS (SASS files) and JS. That allows you to create your custom library including only elements which you really use in your project.   
+
+
+**42 thematic sections**  
+To save your time we have combined our components and prepared thematic sections like **blog listings, contact forms, pricing table** and much more. Choose, combine and enjoy your website in less than a minute.    
+
+
+**10 fresh ready to use templates**  
+We are going further and giving to you ready to use templates! Use them as you like, as an inspiration, prototype or final product for your customers.  
+
+
+**Cross-browser compatibility**  
+Chrome, Firefox, IE, Safari, Opera, Microsoft Edge - MDB loves all browsers, all browsers love MDB.  
+
+
+**Modularity**  
+Material Design for Bootstrap comes with both, compiled, ready to use libraries including all features as well as modules for CSS (SASS files) and JS. That allows you to create your custom library including only elements which you really use in your project.  
+
+
+**Frequent updates**  
+MDB becomes better **every month**. We love the project and enhance as much as possible.  
+
+
+**Technical support**  
+We really care about reliability. If you have any questions - do not hesitate to contact us.  
+
+
+**Active community**  
+Our society grows day by day. Visit [**our forum**](https://mdbootstrap.com/support/)  and check how it is to be a part of our family.  
+
+
+**Flexbox**  
+MDB fully suppports FlexBox. You can forget about alignment issues.  
+
+
+**jQuery 3.2.1**  
+MDB is integrated with newest jQuery, therefore you can use all the newest features which comes along with it.  
+
+
+**SASS files**  
+Arranged and well documented .scss files can't wait until you compile them.  
+
+
+**Useful helpers**  
+We are web developers, we really know which issues are the most annoying in our daily work. Helpers included in MDB will solve lot of them and make your life easiers.  
+
+
+**Detailed documentation:**  
+We give you detailed documentation at your disposal. It will help you to implement your ideas easily.  
+
+
+**Tutorials, tutorials, tutorials**  
+We care about development of our users. We have prepared numerous tutorials, which allow you to learn how to use MDB along with other technologies like Bootstrap, WordPress, Angular, Meteor etc.  
+
+
+**Free for personal and commercial use**  
+Our license is user friendly. Feel free to use MDB for both private as well as commercial projects.  
+
+
 ### Support MDB developers
 - Star our GitHub repo
 - Create pull requests, submit bugs, suggest new features or documentation updates
@@ -141,8 +227,6 @@ ________
 
 # Social Media
 
- - [YouTube](https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA)
-
  - [Twitter](https://twitter.com/MDBootstrap)
 
  - [Facebook](https://www.facebook.com/mdbootstrap) 
@@ -154,3 +238,9 @@ ________
  - [Dribbble](https://dribbble.com/mdbootstrap)
 
  - [LinkedIn](https://www.linkedin.com/company/material-design-for-bootstrap)
+
+________
+
+# PRO version
+
+ - [Material Design for Bootstrap PRO](https://mdbootstrap.com/products/jquery-ui-kit/)
