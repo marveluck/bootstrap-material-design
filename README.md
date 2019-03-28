@@ -6,6 +6,13 @@
 
 <h1 align="center">Material Design for Bootstrap 4</h1>
 
+<p align="center">
+  <b>400+</b> material UI elements, <b>600+</b> material icons, <b>74</b> CSS animations, SASS files, templates, tutorials and many more. Free for personal and commercial use. Available jQuery, Angular, React and Vue versions
+</p>
+<p align="center">
+  Trusted by <b>800 000+</b> developers & designers. Used by such a companies like Nike, Samsung, Amazon, Ikea, Sony and NASA.
+</p>
+
 <p align="center">	
   <a href="https://npmcharts.com/compare/mdbootstrap?minimal=true"><img src="https://img.shields.io/npm/dm/mdbootstrap.svg" alt="Downloads"></a>
   <a href="https://github.com/mdbootstrap/bootstrap-material-design/blob/master/License.pdf"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>	
@@ -20,13 +27,33 @@
   </a>
 </p>
 
-<p align="center">
-  <b>400+</b> material UI elements, <b>600+</b> material icons, <b>74</b> CSS animations, SASS files, templates, tutorials and many more. Free for personal and commercial use. Available jQuery, Angular, React and Vue versions
-</p>
-<p align="center">
-  Trusted by <b>800 000+</b> developers & designers. Used by such a companies like Nike, Samsung, Amazon, Ikea, Sony and NASA.
-</p>
 
+
+
+
+|⠀⠀⠀⠀ 💎 Bootstrap 4 - Thanks to MDB you can take advantage of all feature of latest version of Bootstrap 4.⠀⠀⠀⠀⠀⠀ |
+|-------------------------------|
+
+|🎓 Lots of tutorials - We care about the development of our users. We have prepared numerous tutorials, which allow you to learn how to use MDB as well as other technologies.⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
+|-------------------------------|
+
+|📱 Fully responsive - It doesn't matter whether your project will be displayed on a desktop, laptop, tablet or mobile phone. MDB looks great on every type of screen.|
+|-------------------------------|
+
+|⠀⠀⠀⠀⠀ 🗺️ Plenty of useful templates - Need inspiration? Use one of our predefined templates for free.⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀ |
+|-------------------------------|
+
+|⠀⠀⠀⠀⠀ 💽 Easy installation - 5 minutes, a few clicks and... done! You will be surprised at how easy it is.⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀ ⠀⠀⠀|
+|-------------------------------|
+
+|💄 Easy to use and customize - Using MDB is straightforward and pleasant. Our flexible components allow deep customization. You will easily be able to adjust each component to suit your needs.|
+|-------------------------------|
+
+|🆓 Free for personal and commercial use - Our license is user-friendly. Feel free to use MDB for both private as well as commercial projects.|
+|-------------------------------|
+
+|📑 Detailed documentation - We put detailed user-friendly documentation at your disposal. It will help you to implement your ideas easily.|
+|-------------------------------|
 
 ________
 
@@ -50,30 +77,11 @@ ________
 ________
 
 
+
+
 # Other Technologies
 
 [<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png"/>](https://mdbootstrap.com/docs/angular/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/react.png"/>](https://mdbootstrap.com/docs/react/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png"/>](https://mdbootstrap.com/docs/vue/)
-
-
-
-# Most important features
-
-1. Lots of tutorials
-
-2. Fully responsive
-
-3. Plenty of useful templates
-
-4. Easy installation
-
-5. Easy to use and customize
-
-6. Active community
-
-7. Dedicated support forum
-
-8. Detailed documentation
-
 
 # Demo
 
