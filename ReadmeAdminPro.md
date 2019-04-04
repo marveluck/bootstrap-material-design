@@ -1,16 +1,13 @@
 <p align="center">
   <a href="https://mdbootstrap.com/products/jquery-ui-kit/">
-    <img src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-react-r.png">
+    <img src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb.png">
   </a>
 </p>
 
-<h1 align="center">Material Design for Bootstrap PRO</h1>
+<h1 align="center">MDB Admin Template PRO</h1>
 
 <p align="center">
-  ✔️<b>4500+</b> Premium Components - An impressive collection of ready to use, stunning Material Design components.
-</p>
-<p align="center">
-  ✔️<b>50+ Pro sections & ready to use templates plugins.</b> - Save huge amounts of time on website/application creation using our predefined sections and templates.
+✔️<b>The most advanced Templates Pack</b> - dedicated for admin dashboards and configuration panels. Organization and visualization of a data have never been easier.
 </p>
 <p align="center">
   ✔️<b>Premium support</b> - With the Premium Support all your issues will be treated as a priority and our team will make their fullest efforts to help you with any questions related to MDB.
@@ -21,7 +18,7 @@
 
 <p align="center">
   <a href="https://mdbootstrap.com/products/jquery-ui-kit/" target="_blank">
-    <img width="700" src="https://mdbootstrap.com/wp-content/uploads/2018/01/mdb-pro.jpg" alt="logo">
+    <img width="600" src="https://mdbootstrap.com/img/Marketing/products/jquery/templates/admin.jpg" alt="logo">
   </a>
 </p>
 
@@ -29,39 +26,22 @@
 
 ________
 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Features⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|⠀ MDB Free⠀ |⠀ MDB PRO ⠀ | 
-|:--------------------:|:---------------------------:|:----------------------------:|
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 500+ Basic Components⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️| ✔️ |
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 4,500+ Premium Components⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Detailed Documentation⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ SASS, CSS, JS, HTML files⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️ | ✔️ | 
-startup|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Tutorials⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 50+ Pro Sections⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 8+ Basic medules⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 22 Pro Plugins⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 2 Basic Plugins⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️| ✔️ |
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Premium Support⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ GitLab account and MDB Pro repository access⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
-
-
-________
-
 * 5 min Quick Start - https://www.youtube.com/watch?v=ccrJUi39ElQ
-* ChangeLog - https://mdbootstrap.com/docs/react/changelog/
-* Documentation - https://mdbootstrap.com/docs/react/
-* Product page - https://mdbootstrap.com/products/react-ui-kit/
+* ChangeLog - https://mdbootstrap.com/docs/jquery/changelog/
+* Documentation - https://mdbootstrap.com/docs/jquery/
+* Product page - https://mdbootstrap.com/products/jquery-admin-dashboard/
 * Support - https://mdbootstrap.com/support/
 
 # PRO Technologies
 
-[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png"/>](https://mdbootstrap.com/products/angular-ui-kit/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/jquery.png"/>](https://mdbootstrap.com/products/jquery-ui-kit/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png"/>](https://mdbootstrap.com/products/vue-ui-kit/)
+[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png"/>](https://mdbootstrap.com/products/angular-admin-dashboard/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/react.png"/>](https://mdbootstrap.com/products/react-ui-kit/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png"/>](https://mdbootstrap.com/products/vue-admin-dashboard/)
 
 
 # Quick Start
 
- - [Written Tutorial](https://mdbootstrap.com/education/bootstrap/quick-start/)
+ - [Written Tutorial](https://mdbootstrap.com/education/bootstrap/admin-dashboard-introduction/)
 
- - [Video Tutorial](https://www.youtube.com/watch?v=cXTThxoywNQ&t=9s)
+ - [Video Tutorial](https://www.youtube.com/watch?v=cXTThxoywNQ&t)
 
 
 
@@ -90,21 +70,7 @@ Similarly, the latest versions of most desktop browsers are supported.
 |⠀Mac⠀|⠀Supported⠀|⠀Supported⠀|⠀N/A⠀|⠀N/⠀|⠀Supported⠀|⠀Supported⠀|
 |Windows|⠀Supported⠀|⠀Supported⠀|⠀N/A⠀|⠀Supported|⠀Supported⠀|⠀Not supported⠀|
 
-
-# Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/mdbootstrap/bootstrap-material-design/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-
-### Support MDB developers
-- Star our GitHub repo
-- Create pull requests, submit bugs, suggest new features or documentation updates
-- Follow us on [Twitter](https://twitter.com/mdbootstrap)
-- Like our page on [Facebook](https://www.facebook.com/mdbootstrap)
-
-A big ❤️ **thank you to all our users** ❤️ who are working with us to improve the software. We wouldn't be where we are without you. 
-
-________
+_______
 
 # Useful Links
 
