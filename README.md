@@ -162,8 +162,6 @@ ________
 
  - [Pinterest](https://pl.pinterest.com/mdbootstrap)
 
- - [Google+](https://plus.google.com/u/0/b/107863090883699620484/+Mdbootstrap/posts)
-
  - [Dribbble](https://dribbble.com/mdbootstrap)
 
  - [LinkedIn](https://www.linkedin.com/company/material-design-for-bootstrap)
