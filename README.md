@@ -28,6 +28,25 @@
 </p>
 
 
+________
+
+
+## Table of Contents
+
+* [Versions](#other-technologies) 
+* [Demo](#demo)
+* [Quick Start](#quick-start)
+* [How to install](#how-to-install)
+* [Additional tutorials](#additional-tutorials)
+* [MDBootstrap on CDNJS](#mdbootstrap-on-cdnjs)
+* [Documentation](#documentation)
+* [Supported Browsers](#supported-browsers)
+* [Contributing](#contributing)
+* [Social Media](#social-media)
+* [Useful Links](#useful-links)
+
+________
+
 
 |         | Highlights  |                         |
 |-----------------------------------------|------------------|------------------------------|
@@ -42,30 +61,7 @@
 
 
 
-________
-
-
-## Table of Contents
-
-* [Other Technologies](#other-technologies) 
-* [Most important features](#most-important-features) 
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [How to install](#how-to-install)
-* [Additional tutorials](#additional-tutorials)
-* [Documentation](#documentation)
-* [MDBootstrap on CDNJS](#mdbootstrap-on-cdnjs)
-* [Supported Browsers](#supported-browsers)
-* [Contributing](#contributing)
-* [Social Media](#social-media)
-* [Useful Links](#useful-links)
-
-________
-
-
-
-
-# Other Technologies
+# Versions
 
 [<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png"/>](https://mdbootstrap.com/docs/angular/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/react.png"/>](https://mdbootstrap.com/docs/react/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png"/>](https://mdbootstrap.com/docs/vue/)
 
