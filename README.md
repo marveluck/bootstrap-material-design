@@ -29,33 +29,17 @@
 
 
 
+|         | Highlights  |                         |
+|-----------------------------------------|------------------|------------------------------|
+|💎 |Thanks to MDB you can take advantage of all feature of latest version of Bootstrap 4.⠀⠀⠀⠀⠀ | ✔️ |
+|🎓 |We care about the development of our users. We have prepared numerous tutorials, which allow you to learn how to use MDB as well as other technologies.⠀⠀⠀⠀⠀⠀⠀⠀⠀ | ✔️ |
+|📱 |It doesn't matter whether your project will be displayed on a desktop, laptop, tablet or mobile phone. MDB looks great on every type of screen.| ✔️ |
+|🗺️ |Need inspiration? Use one of our predefined templates for free.⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀ | ✔️| 
+|💽 |5 minutes, a few clicks and... done! You will be surprised at how easy it is.⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀ ⠀⠀⠀| ✔️ |
+|💄 |Using MDB is straightforward and pleasant. Our flexible components allow deep customization. You will easily be able to adjust each component to suit your needs.| ✔️ |
+|🆓 |Our license is user-friendly. Feel free to use MDB for both private as well as commercial projects.| ✔️ |
+|📑 |We put detailed user-friendly documentation at your disposal. It will help you to implement your ideas easily.| ✔️ |
 
-
-|💎 Bootstrap 4 |⠀⠀Thanks to MDB you can take advantage of all feature of latest version of Bootstrap 4.⠀⠀⠀⠀⠀⠀ |
-|-------------------------------|----------------------------------|
-
-|🎓 Lots of tutorials | We care about the development of our users. We have prepared numerous tutorials, which allow you to learn how to use MDB as well as other technologies.⠀⠀⠀⠀⠀⠀⠀⠀⠀ |
-|-------------------------------|----------------------------------|
-
-|📱 Fully responsive | It doesn't matter whether your project will be displayed on a desktop, laptop, tablet or mobile phone. MDB looks great on every type of screen.|
-|-------------------------------|----------------------------------|
-
-|🗺️ Plenty of useful templates | Need inspiration? Use one of our predefined templates for free.⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀ |
-|-------------------------------|----------------------------------|
-
-|💽 Easy installation | 5 minutes, a few clicks and... done! You will be surprised at how easy it is.⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀ ⠀⠀⠀|
-|-------------------------------|----------------------------------|
-
-|💄 Easy to use and customize | Using MDB is straightforward and pleasant. Our flexible components allow deep customization. You will easily be able to adjust each component to suit your needs.|
-|-------------------------------|----------------------------------|
-
-
-|🆓 Free for personal and commercial use | Our license is user-friendly. Feel free to use MDB for both private as well as commercial projects.|
-|-------------------------------|----------------------------------|
-
-
-|📑 Detailed documentation | We put detailed user-friendly documentation at your disposal. It will help you to implement your ideas easily.|
-|-------------------------------|----------------------------------|
 
 
 ________
