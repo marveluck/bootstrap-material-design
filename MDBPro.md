@@ -27,7 +27,7 @@
     <img width="600" src="https://mdbootstrap.com/wp-content/uploads/2016/11/mdb-pro-2.jpg" alt="logo">
   </a>
 </p>
-________
+
 
 |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Features⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|⠀ MDB Free⠀ |⠀ MDB PRO ⠀ | 
 |:--------------------:|:---------------------------:|:----------------------------:|
@@ -48,6 +48,18 @@ ________
 
 ________
 
+# Table of Content
+
+* [Useful links](#useful-links)
+* [Available templates](#available-templates)
+* [PRO Technologies](#pro-technologies)
+* [Quick Start](#quick-start)
+* [Documentation](#documentation)
+* [Supported Browsers](#supported-browsers)
+* [Social Media](#social-media)
+
+
+# Useful links
 
 * Test PRO components - https://mdbootstrap.com/snippets/
 * 5 min Quick Start - https://www.youtube.com/watch?v=ccrJUi39ElQ
@@ -55,8 +67,10 @@ ________
 * Documentation - https://mdbootstrap.com/docs/jquery/getting-started/download/
 * Product page - https://mdbootstrap.com/products/jquery-ui-kit/
 * Support - https://mdbootstrap.com/support/
-* Templates - https://mdbootstrap.com/templates-2/
 
+# Available templates
+
+* [Templates](https://mdbootstrap.com/templates-2/)
 ```
  - About Us
  - Blog Post
@@ -80,6 +94,10 @@ ________
  - [Written Tutorial](https://mdbootstrap.com/education/bootstrap/quick-start/)
 
  - [Video Tutorial](https://www.youtube.com/watch?v=cXTThxoywNQ)
+ 
+# Documentation
+ 
+ - [Huge, detailed documentation available online](https://mdbootstrap.com/docs/jquery/)
 
 # Supported browsers
 
@@ -95,7 +113,7 @@ Generally speaking, MDBootstrap supports the latest versions of each major platf
 |:--------------------:|:---------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|:-------------------------------------------------------------------------:|
 | Android | Supported | Supported | N/A | Android v5.0+ supported | Supported |
 | iOS | Supported | Supported | Supported | N/A | Supported |
-| Windows 10 Mobile | N/A | N/A | N/A | N/A | Supported |
+|⠀ Windows 10 Mobile⠀ | N/A | N/A | N/A | N/A | Supported |
 
 ### Desktop browsers
 
@@ -113,18 +131,6 @@ Similarly, the latest versions of most desktop browsers are supported.
 - Like our page on [Facebook](https://www.facebook.com/mdbootstrap)
 
 A big ❤️ **thank you to all our users** ❤️ who are working with us to improve the software. We wouldn't be where we are without you. 
-
-________
-
-# Useful Links
-
-- [Getting Started](https://mdbootstrap.com/docs/jquery/getting-started/download/)
-
-- [5 min quick start](https://mdbootstrap.com/education/bootstrap/quick-start/)
-
-- [Freebies](https://mdbootstrap.com/freebies/)
-
-- [Premium Templates](https://mdbootstrap.com/templates/)
 
 ________
 
