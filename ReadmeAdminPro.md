@@ -70,7 +70,7 @@ ________
 [<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png"/>](https://mdbootstrap.com/products/angualr-admin-dashboard/)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png"/>](https://mdbootstrap.com/products/vue-admin-dashboard/)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/react.png"/>](https://mdbootstrap.com/products/react-admin-dashboard/)
 
 
-# Quick start
+# Tutorials
 
  - [Written Tutorial](https://mdbootstrap.com/education/bootstrap/admin-dashboard-introduction/)
 
@@ -79,7 +79,7 @@ ________
 
 # Documentation
 
- - [Huge, detailed documentation available online](https://mdbootstrap.com/docs/jquery/]
+ - [Huge, detailed documentation available online](https://mdbootstrap.com/docs/jquery/)
 
 # Supported browsers
 
