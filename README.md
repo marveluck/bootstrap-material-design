@@ -39,8 +39,30 @@ We're maintaining a [dedicated Support Forum](https://mdbootstrap.com/support/) 
 
 **Please read [contribution rules](https://github.com/mdbootstrap/bootstrap-material-design/blob/master/CONTRIBUTING.md) before starting your improvements in order to help us make the cooperation and reviewing experience as pleasant and effective as possible**
 
+# Highlights
 
-## MDB CLI - the fastest way to create and host MDB projects
+- Thanks to MDB you can take advantage of all features of the latest version of Bootstrap 4
+- We care about the development of our users. We have prepared numerous tutorials, which allow you to learn how to use MDB as well as other technologies
+- It doesn't matter whether your project will be displayed on a desktop, laptop, tablet or mobile phone. MDB looks great on every type of screen
+- Need inspiration? Use one of our predefined templates for free
+- 5 minutes, a few clicks and... done! You will be surprised at how easy it is
+- Using MDB is straightforward and pleasant. Our flexible components allow deep customization. You will easily be able to adjust each component to suit your needs.
+- Our license is user-friendly. Feel free to use MDB for both private as well as commercial projects.
+- We put detailed user-friendly documentation at your disposal. It will help you to implement your ideas easily.
+
+
+
+# Quick Start Video
+
+[![Quick Start](https://mdbootstrap.com/wp-content/uploads/2020/05/yt.png)](https://youtu.be/cXTThxoywNQ)
+
+# More Web Development Technologies
+
+|⠀  ⠀ ⠀  ⠀    MDBootstrap Angular⠀  ⠀ ⠀  ⠀   |⠀  ⠀ ⠀   MDBootstrap React ⠀  ⠀  ⠀⠀  |⠀  ⠀ ⠀ ⠀ ⠀   MDBootstrap Vue⠀  ⠀ ⠀  ⠀   |
+| --------------- | ------------------ | ------------- |
+|⠀  ⠀ ⠀  ⠀ ⠀ ⠀   [![MDB Angular](https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png")](https://mdbootstrap.com/docs/angular/) |⠀  ⠀ ⠀  ⠀   [![MDB React](https://mdbootstrap.com/img/Marketing/general/logo/small/react.png)](https://mdbootstrap.com/docs/react/) |⠀  ⠀ ⠀ ⠀ ⠀  ⠀   [![MDB Vue](https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png)](https://mdbootstrap.com/docs/vue/) 
+
+# MDB CLI - the fastest way to create and host MDB projects
 
 <table>
   <tbody>
@@ -70,15 +92,6 @@ We're maintaining a [dedicated Support Forum](https://mdbootstrap.com/support/) 
 </table>
 
 
-
-## Quick Start Video
-
-[![Quick Start](https://mdbootstrap.com/wp-content/uploads/2020/05/yt.png)](https://youtu.be/cXTThxoywNQ)
-
-# Versions
-
-[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png"/>](https://mdbootstrap.com/docs/angular/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/react.png"/>](https://mdbootstrap.com/docs/react/)[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png"/>](https://mdbootstrap.com/docs/vue/)
-
 # Supported browsers
 
 MDBootstrap supports the **latest, stable releases** of all major browsers and platforms.
@@ -103,10 +116,6 @@ Similarly, the latest versions of most desktop browsers are supported.
 |:--------------------:|:-----------------------------:|:------------------------------:|:------------------------------:|:----------------------------:|:-------------------------------------------------------------------------:|:------------------------------:|
 | ⠀⠀⠀Mac⠀⠀| Supported | Supported | N/A | N/A |⠀Supported⠀|⠀Supported⠀⠀|
 |⠀⠀⠀Windows⠀  |Supported | Supported | N/A |⠀Supported⠀|⠀Supported⠀|⠀Not supported⠀|
-
-
-
-
 
 
 # Demo
