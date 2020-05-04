@@ -11,9 +11,9 @@
 <a href="https://badge.fury.io/js/mdbootstrap"><img src="https://badge.fury.io/js/mdbootstrap.svg" alt="npm"></a>	
 <a href="https://twitter.com/intent/tweet/?text=Thanks+@mdbootstrap+for+creating+amazing+and+free+Material+Design+for+Bootstrap+4+UI+KIT%20https://mdbootstrap.com/docs/jquery/&hashtags=javascript,code,webdesign,bootstrap"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>	
 
-The most popular UI KIT for building responsive, mobile-first websites and apps - free for personal & commercial use. Available jQuery, Angular, React and Vue versions
+The most popular UI KIT for building responsive, mobile-first websites and apps - free for personal & commercial use. Available jQuery, Angular, React and Vue versions.
 
-500+ material UI elements, 600+ material icons, 77+ CSS animations, 9+ useful plugins, SASS files, templates, tutorials and many more.
+Our impressive collection of beautiful, 500+ material UI elements, 600+ material icons, 77+ CSS animations, 9+ useful plugins, SASS files, templates, tutorials and many more allows you to develop any kind of project.
 
 Trusted by <b>1 500 000+</b> developers & designers. Used by companies like
 <table>
