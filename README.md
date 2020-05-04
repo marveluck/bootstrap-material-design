@@ -40,20 +40,31 @@ We're maintaining a [dedicated Support Forum](https://mdbootstrap.com/support/) 
 **Please read [contribution rules](https://github.com/mdbootstrap/bootstrap-material-design/blob/master/CONTRIBUTING.md) before starting your improvements in order to help us make the cooperation and reviewing experience as pleasant and effective as possible**
 
 
-## Demo
+## MDB CLI - the fastest way to create and host MDB projects
 
 <table>
   <tbody>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://mdbootstrap.com/docs/jquery/components/demo/">
+        <a href="https://mdbootstrap.com/cli/">
           <img
-            src="https://mdbootstrap.com/wp-content/uploads/2016/11/mdb-pro-min-1.jpg"
-            style="width: 100px;">
+            src="https://mdbootstrap.com/img/Marketing/products/cli/cli-free.jpg"
+            style="width: 50px;">
         </a>
       </td>
       <td align="left" valign="top">
+        <b>Initiate</b>
+        <br />
+        With MDB CLI you can start a new project within seconds! Use mdb init command and start with a pre-set configuration!
       </td>
+      <td align="left" valign="top">
+        <b>Publish and host</b>
+        <br />
+        Make your project visible with mdb publish, no need to store your code, simply get the link and share it with the world!
+      </td>
+        <td align="center">
+          <b><a href="https://mdbootstrap.com/cli/">Get started</a></p>
+        </td>
     </tr>
   </tbody>
 </table>
