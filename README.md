@@ -1,35 +1,76 @@
-<p align="center">
-  <a href="https://mdbootstrap.com/docs/jquery/getting-started/download/">
-    <img src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-r.png">
-  </a>
-</p>
+<a href="https://mdbootstrap.com/docs/jquery/getting-started/download/">
+  <img src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-r.png">
+</a>
 
-<h1 align="center">Material Design for Bootstrap 4</h1>
 
-<p align="center">
-  <b>400+</b> material UI elements, <b>600+</b> material icons, <b>74</b> CSS animations, SASS files, templates, tutorials and many more. Free for personal and commercial use. Available jQuery, Angular, React and Vue versions
-</p>
-<p align="center">
-  Trusted by <b>800 000+</b> developers & designers. Used by such a companies like Nike, Samsung, Amazon, Ikea, Sony and NASA.
-</p>
+# Material Design for Bootstrap
 
-<p align="center">	
-  <a href="https://npmcharts.com/compare/mdbootstrap?minimal=true"><img src="https://img.shields.io/npm/dm/mdbootstrap.svg" alt="Downloads"></a>
-  <a href="https://github.com/mdbootstrap/bootstrap-material-design/blob/master/License.pdf"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>	
-  <a href="https://cdnjs.com/libraries/mdbootstrap"><img src="https://img.shields.io/cdnjs/v/mdbootstrap.svg" alt="cdnjs"></a>	
-  <a href="https://badge.fury.io/js/mdbootstrap"><img src="https://badge.fury.io/js/mdbootstrap.svg" alt="npm"></a>	
-  <a href="https://twitter.com/intent/tweet/?text=Thanks+@mdbootstrap+for+creating+amazing+and+free+Material+Design+for+Bootstrap+4+UI+KIT%20https://mdbootstrap.com/docs/jquery/&hashtags=javascript,code,webdesign,bootstrap"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>	
-</p>
+<a href="https://npmcharts.com/compare/mdbootstrap?minimal=true"><img src="https://img.shields.io/npm/dm/mdbootstrap.svg" alt="Downloads"></a>
+<a href="https://github.com/mdbootstrap/bootstrap-material-design/blob/master/License.pdf"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>	
+<a href="https://cdnjs.com/libraries/mdbootstrap"><img src="https://img.shields.io/cdnjs/v/mdbootstrap.svg" alt="cdnjs"></a>	
+<a href="https://badge.fury.io/js/mdbootstrap"><img src="https://badge.fury.io/js/mdbootstrap.svg" alt="npm"></a>	
+<a href="https://twitter.com/intent/tweet/?text=Thanks+@mdbootstrap+for+creating+amazing+and+free+Material+Design+for+Bootstrap+4+UI+KIT%20https://mdbootstrap.com/docs/jquery/&hashtags=javascript,code,webdesign,bootstrap"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>	
 
-<p align="center">
-  <a href="https://mdbootstrap.com/docs/jquery/getting-started/download/" target="_blank">
-    <img width="600" src="https://mdbootstrap.com/img/Marketing/products/jquery/mdb-free.jpg" alt="logo">
-  </a>
-</p>
+The most popular UI KIT for building responsive, mobile-first websites and apps - free for personal & commercial use. Available jQuery, Angular, React and Vue versions
+
+500+ material UI elements, 600+ material icons, 77+ CSS animations, 9+ useful plugins, SASS files, templates, tutorials and many more.
+
+Trusted by <b>1 500 000+</b> developers & designers. Used by companies like
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://mdbootstrap.com/img/logo/brands/nike.png" style="width: 10px;"></td>
+      <td><img src="https://mdbootstrap.com/img/logo/brands/amazon.png" style="width: 10px;"></td>
+      <td><img src="https://mdbootstrap.com/img/logo/brands/sony.png" style="width: 10px;"></td>
+      <td><img src="https://mdbootstrap.com/img/logo/brands/samsung.png"  style="height: 40px">
+      <td><img src="https://mdbootstrap.com/img/logo/brands/airbus.png" style="height: 40px">
+      <td><img src="https://mdbootstrap.com/img/logo/brands/yahoo.png"  style="height: 40px">
+    </tr>
+    <tr>
+      <td><img src="https://mdbootstrap.com/img/logo/brands/deloitte.png" style="height: 40px"></div>
+      <td><img src="https://mdbootstrap.com/img/logo/brands/ge.png" style="height: 40px">
+      <td><img src="https://mdbootstrap.com/img/logo/brands/kpmg.png" style="height: 40px">
+      <td><img src="https://mdbootstrap.com/img/logo/brands/unity.png" style="height: 40px">
+      <td><img src="https://mdbootstrap.com/img/logo/brands/ikea.png" style="max-height: 40px">
+      <td><img src="https://mdbootstrap.com/img/logo/brands/aegon.png" style="height: 40px">
+    </tr>
+   </tbody>
+</table>
+
+
+We're maintaining a [dedicated Support Forum](https://mdbootstrap.com/support/) for this purpose. This is also a go-to place for every suggestion, opinion, bug, and issue report if you'd like to receive help as soon as possible. Reports posted on Support Forum are **prior to GitHub issues**
+
+**Please read [contribution rules](https://github.com/mdbootstrap/bootstrap-material-design/blob/master/CONTRIBUTING.md) before starting your improvements in order to help us make the cooperation and reviewing experience as pleasant and effective as possible**
+
+
+## Demo
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://mdbootstrap.com/docs/jquery/components/demo/">
+          <img
+            src="https://mdbootstrap.com/wp-content/uploads/2016/11/mdb-pro-min-1.jpg"
+            style="width: 100px;">
+        </a>
+      </td>
+      <td align="left" valign="top">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+## 5-min Quick Start
+[![Quick Start!](https://mdbootstrap.com/wp-content/uploads/2020/05/yt.png)](https://youtu.be/cXTThxoywNQ)
+
+
 
 |         | Highlights  |                         |
 |-----------------------------------------|------------------|------------------------------|
-|💎 |Thanks to MDB you can take advantage of all feature of latest version of Bootstrap 4.⠀⠀⠀⠀⠀ | ✔️ |
+|💎 |Thanks to MDB you can take advantage of all features of the latest version of Bootstrap 4.⠀⠀⠀⠀⠀ | ✔️ |
 |🎓 |We care about the development of our users. We have prepared numerous tutorials, which allow you to learn how to use MDB as well as other technologies.⠀⠀⠀⠀⠀⠀⠀⠀⠀ | ✔️ |
 |📱 |It doesn't matter whether your project will be displayed on a desktop, laptop, tablet or mobile phone. MDB looks great on every type of screen.| ✔️ |
 |🗺️ |Need inspiration? Use one of our predefined templates for free.⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀ | ✔️| 
@@ -39,24 +80,6 @@
 |📑 |We put detailed user-friendly documentation at your disposal. It will help you to implement your ideas easily.| ✔️ |
 
 ________
-
-
-## Table of Contents
-
-* [Versions](#versions) 
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [How to install](#how-to-install)
-* [Additional tutorials](#additional-tutorials)
-* [MDBootstrap on CDNJS](#mdbootstrap-on-cdnjs)
-* [Documentation](#documentation)
-* [Supported Browsers](#supported-browsers)
-* [Contributing](#contributing)
-* [Social Media](#social-media)
-* [Useful Links](#useful-links)
-
-________
-
 
 # Versions
 
