@@ -49,21 +49,21 @@ We're maintaining a [dedicated Support Forum](https://mdbootstrap.com/support/) 
         <a href="https://mdbootstrap.com/cli/">
           <img
             src="https://mdbootstrap.com/img/Marketing/products/cli/cli-free.jpg"
-            style="width: 50px;">
+            style="width: 60px;">
         </a>
       </td>
       <td align="left" valign="top">
         <b>Initiate</b>
         <br />
-        With MDB CLI you can start a new project within seconds! Use mdb init command and start with a pre-set configuration!
+        With MDB CLI you can start a new project within seconds! Use <b><code>mdb init</code></b> command and start with a pre-set configuration!
       </td>
       <td align="left" valign="top">
         <b>Publish and host</b>
         <br />
-        Make your project visible with mdb publish, no need to store your code, simply get the link and share it with the world!
+        Make your project visible with <b><code>mdb publish</code></b>, no need to store your code, simply get the link and share it with the world!
       </td>
         <td align="center">
-          <b><a href="https://mdbootstrap.com/cli/">Get started</a></p>
+          <b><a href="https://mdbootstrap.com/cli/">Get started</a> </p>
         </td>
     </tr>
   </tbody>
@@ -71,8 +71,9 @@ We're maintaining a [dedicated Support Forum](https://mdbootstrap.com/support/) 
 
 
 
-## 5-min Quick Start
-[![Quick Start!](https://mdbootstrap.com/wp-content/uploads/2020/05/yt.png)](https://youtu.be/cXTThxoywNQ)
+## Quick Start Video
+
+[![Quick Start](https://mdbootstrap.com/wp-content/uploads/2020/05/yt.png)](https://youtu.be/cXTThxoywNQ)
 
 # Versions
 
