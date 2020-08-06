@@ -12,7 +12,7 @@
 <a href="https://twitter.com/intent/tweet/?text=Thanks+@mdbootstrap+for+creating+amazing+and+free+Material+Design+for+Bootstrap+4+UI+KIT%20https://mdbootstrap.com/docs/jquery/&hashtags=javascript,code,webdesign,bootstrap"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social"></a>	
 
 The most popular UI KIT for building responsive, mobile-first websites and apps - free for personal & commercial use. Available jQuery, Angular, React and Vue versions.
-
+ 
 Trusted by <b>2 000 000+</b> developers & designers. Used by companies like
 <table>
   <tbody>
