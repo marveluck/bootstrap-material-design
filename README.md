@@ -50,9 +50,6 @@ We're maintaining a [dedicated Support Forum](https://mdbootstrap.com/support/) 
 
  <a href="https://youtu.be/cXTThxoywNQ"><img width="700" height="438" src="https://mdbootstrap.com/wp-content/uploads/2020/06/PlayDemo.png"></a>
 
-
-[![Quick Start](https://i.ytimg.com/vi/cXTThxoywNQ/maxresdefault.jpg)](https://youtu.be/cXTThxoywNQ)
-
 According to your preference, you can follow a [video](https://youtu.be/cXTThxoywNQ) or [written version](https://mdbootstrap.com/education/bootstrap/quick-start/)
 
 Also, you can install MDB Free using NPM [installation guide](https://mdbootstrap.com/docs/jquery/getting-started/installation-guide/)
@@ -95,22 +92,43 @@ Also, you can install MDB Free using NPM [installation guide](https://mdbootstra
 
 <p>A slideshow component for cycling through elements—images or slides of text—like a carousel.</p>
 
-<a href="https://mdbootstrap.com/docs/standard/components/carousel/" alt="Bootstrap 5" rel="dofollow">
+<a href="https://mdbootstrap.com/docs/jquery/javascript/carousel/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-carousel-video.gif">
   </p>
 </a>
 
-<a href="https://mdbootstrap.com/docs/standard/components/carousel/" alt="Bootstrap 5" rel="dofollow">
+<a href="https://mdbootstrap.com/docs/jquery/javascript/carousel/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-carousel.gif">
   </p>
 </a>
 
-### Carousel
+### Buttons
 
+<p>You can use Bootstrap’s custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more...</p>
 
+<a href="https://mdbootstrap.com/docs/jquery/components/buttons/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-buttons.gif">
+  </p>
+</a>
 
+<a href="https://mdbootstrap.com/docs/jquery/components/buttons/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-social-buttons.gif">
+  </p>
+</a>
+
+### Cards
+
+<p>Bootstrap cards are components which display content built of different elements with characteristic shadows, depth and hover effects.</p>
+
+<a href="https://mdbootstrap.com/docs/jquery/components/cards/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-cards.png">
+  </p>
+</a>
 
 
 # Supported browsers
