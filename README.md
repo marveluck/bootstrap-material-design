@@ -41,9 +41,9 @@ We're maintaining a [dedicated Support Forum](https://mdbootstrap.com/support/) 
 
 # More Web Development Technologies
 
-|⠀  ⠀  ⠀⠀  ⠀      MDBootstrap Angular⠀  ⠀ ⠀    ⠀   |⠀  ⠀   ⠀  ⠀⠀    MDBootstrap React ⠀   ⠀   ⠀⠀  |⠀  ⠀  ⠀⠀ ⠀     MDBootstrap Vue⠀  ⠀  ⠀   ⠀   |           MDBootstrap 5         |
+|⠀  ⠀     ⠀     MDBootstrap Angular⠀      ⠀   |⠀        MDBootstrap React ⠀   ⠀⠀    |⠀  ⠀      MDBootstrap Vue⠀     ⠀ ⠀   |         MDBootstrap 5           |
 | --------------- | ------------------ | ------------- | ------------- |
-|⠀  ⠀ ⠀  ⠀ ⠀     ⠀ ⠀   [![MDB Angular](https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png")](https://mdbootstrap.com/docs/angular/)  ⠀  |⠀  ⠀ ⠀   ⠀   ⠀⠀    [![MDB React](https://mdbootstrap.com/img/Marketing/general/logo/small/react.png)](https://mdbootstrap.com/docs/react/)  ⠀  |⠀  ⠀    ⠀⠀   ⠀  ⠀   [![MDB Vue](https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png)](https://mdbootstrap.com/docs/vue/)   |    ⠀⠀   ⠀  ⠀   [![MDB Vue](https://mdbootstrap.com/wp-content/uploads/2020/08/bootstraplogo.png)](https://mdbootstrap.com/docs/standard/)   ⠀   ⠀ 
+|⠀  ⠀ ⠀  ⠀       [![MDB Angular](https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png")](https://mdbootstrap.com/docs/angular/)  ⠀  |⠀  ⠀ ⠀      ⠀    [![MDB React](https://mdbootstrap.com/img/Marketing/general/logo/small/react.png)](https://mdbootstrap.com/docs/react/)  ⠀  |⠀  ⠀           ⠀   [![MDB Vue](https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png)](https://mdbootstrap.com/docs/vue/)   |    ⠀⠀⠀        ⠀            [![MDB 5](https://mdbootstrap.com/wp-content/uploads/2020/08/bootstrap5-logo.png)](https://mdbootstrap.com/docs/standard/)   ⠀   
 ⠀   ⠀ 
 
 # Quick Start Video
@@ -218,6 +218,14 @@ Also, you can install MDB Free using NPM [installation guide](https://mdbootstra
 <a href="https://mdbootstrap.com/docs/jquery/navigation/sidenav/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-sidenav.gif">
+  </p>
+</a>
+
+<p>Use MDB modal plugin to add dialogs to your site for lightboxes, user notifications, or completely custom content.</p>
+
+<a href="https://mdbootstrap.com/docs/standard/components/modal/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-modal.gif">
   </p>
 </a>
 
