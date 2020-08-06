@@ -94,13 +94,39 @@ Also, you can install MDB Free using NPM [installation guide](https://mdbootstra
 
 <a href="https://mdbootstrap.com/docs/jquery/javascript/carousel/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
-    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-carousel-video.gif">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-carousel-video.gif">
   </p>
 </a>
 
 <a href="https://mdbootstrap.com/docs/jquery/javascript/carousel/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-carousel.gif">
+  </p>
+</a>
+
+### Loader / Spinner
+
+<a href="https://mdbootstrap.com/docs/jquery/components/spinners/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-loader.gif">
+  </p>
+</a>
+
+<a href="https://mdbootstrap.com/docs/jquery/components/spinners/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-color-spinners.gif">
+  </p>
+</a>
+
+<a href="https://mdbootstrap.com/docs/jquery/components/spinners/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-multicolor.gif">
+  </p>
+</a>
+
+<a href="https://mdbootstrap.com/docs/jquery/components/spinners/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-crazyloader.gif">
   </p>
 </a>
 
@@ -116,7 +142,7 @@ Also, you can install MDB Free using NPM [installation guide](https://mdbootstra
 
 <a href="https://mdbootstrap.com/docs/jquery/components/buttons/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
-    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-social-buttons.gif">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-social-buttons.png">
   </p>
 </a>
 
@@ -126,10 +152,74 @@ Also, you can install MDB Free using NPM [installation guide](https://mdbootstra
 
 <a href="https://mdbootstrap.com/docs/jquery/components/cards/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
-    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-cards.png">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-cards-cascading.png">
   </p>
 </a>
 
+<a href="https://mdbootstrap.com/docs/jquery/components/cards/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-fancy-cards.gif">
+  </p>
+</a>
+
+
+<a href="https://mdbootstrap.com/docs/jquery/components/cards/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-cards-overlay.png">
+  </p>
+</a>
+
+### Alerts 
+
+<p>Bootstrap alerts are feedback messages that are displayed after specific actions performed by the user. The length of the text is unlimited.</p>
+
+<a href="https://mdbootstrap.com/docs/jquery/components/cards/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-alerts.png">
+  </p>
+</a>
+
+### Hamburger Menu
+
+<p>Bootstrap alerts are feedback messages that are displayed after specific actions performed by the user. The length of the text is unlimited.</p>
+
+<a href="https://mdbootstrap.com/docs/jquery/navigation/hamburger-menu/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-hamburgermenu.gif">
+  </p>
+</a>
+
+### Footer
+
+<p>A footer is an additional navigation component. It can hold links, buttons, company info, copyrights, forms, and many other elements.</p>
+
+<a href="https://mdbootstrap.com/docs/jquery/navigation/footer/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-footer.png">
+  </p>
+</a>
+
+<a href="https://mdbootstrap.com/docs/jquery/navigation/footer/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-footer-image.png">
+  </p>
+</a>
+
+<a href="https://mdbootstrap.com/docs/jquery/navigation/footer/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-footer-video.png">
+  </p>
+</a>
+
+### Sidenav
+
+<p>Bootstrap's sidenav is a vertical navigation component which apart from traditional, text links, might embed icons, dropdowns, avatars or search forms.</p>
+
+<a href="https://mdbootstrap.com/docs/jquery/navigation/sidenav/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo4-sidenav.gif">
+  </p>
+</a>
 
 # Supported browsers
 
