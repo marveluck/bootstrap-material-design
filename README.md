@@ -13,7 +13,7 @@
 
 The most popular UI KIT for building responsive, mobile-first websites and apps - free for personal & commercial use. Available jQuery, Angular, React and Vue versions.
 
-Trusted by <b>1 500 000+</b> developers & designers. Used by companies like
+Trusted by <b>2 000 000+</b> developers & designers. Used by companies like
 <table>
   <tbody>
     <tr>
@@ -41,27 +41,17 @@ We're maintaining a [dedicated Support Forum](https://mdbootstrap.com/support/) 
 
 # More Web Development Technologies
 
-|⠀  ⠀  ⠀⠀  ⠀      MDBootstrap Angular⠀  ⠀ ⠀    ⠀   |⠀  ⠀   ⠀  ⠀⠀    MDBootstrap React ⠀   ⠀   ⠀⠀  |⠀  ⠀  ⠀⠀ ⠀     MDBootstrap Vue⠀  ⠀  ⠀   ⠀   |
-| --------------- | ------------------ | ------------- |
-|⠀  ⠀ ⠀  ⠀ ⠀     ⠀ ⠀   [![MDB Angular](https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png")](https://mdbootstrap.com/docs/angular/)  ⠀  |⠀  ⠀ ⠀   ⠀   ⠀⠀    [![MDB React](https://mdbootstrap.com/img/Marketing/general/logo/small/react.png)](https://mdbootstrap.com/docs/react/)  ⠀  |⠀  ⠀    ⠀⠀   ⠀  ⠀   [![MDB Vue](https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png)](https://mdbootstrap.com/docs/vue/)   ⠀   ⠀ 
-
-
-# Highlights
-
-- Thanks to MDB you can take advantage of all features of the latest version of Bootstrap 4
-- We care about the development of our users. We have prepared numerous tutorials, which allow you to learn how to use MDB as well as other technologies
-- It doesn't matter whether your project will be displayed on a desktop, laptop, tablet or mobile phone. MDB looks great on every type of screen
-- Need inspiration? Use one of our predefined templates for free
-- 5 minutes, a few clicks and... done! You will be surprised at how easy it is
-- Using MDB is straightforward and pleasant. Our flexible components allow deep customization. You will easily be able to adjust each component to suit your needs.
-- Our license is user-friendly. Feel free to use MDB for both private as well as commercial projects.
-- We put detailed user-friendly documentation at your disposal. It will help you to implement your ideas easily.
-
-
+|⠀  ⠀  ⠀⠀  ⠀      MDBootstrap Angular⠀  ⠀ ⠀    ⠀   |⠀  ⠀   ⠀  ⠀⠀    MDBootstrap React ⠀   ⠀   ⠀⠀  |⠀  ⠀  ⠀⠀ ⠀     MDBootstrap Vue⠀  ⠀  ⠀   ⠀   |           MDBootstrap 5         |
+| --------------- | ------------------ | ------------- | ------------- |
+|⠀  ⠀ ⠀  ⠀ ⠀     ⠀ ⠀   [![MDB Angular](https://mdbootstrap.com/img/Marketing/general/logo/small/angular.png")](https://mdbootstrap.com/docs/angular/)  ⠀  |⠀  ⠀ ⠀   ⠀   ⠀⠀    [![MDB React](https://mdbootstrap.com/img/Marketing/general/logo/small/react.png)](https://mdbootstrap.com/docs/react/)  ⠀  |⠀  ⠀    ⠀⠀   ⠀  ⠀   [![MDB Vue](https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png)](https://mdbootstrap.com/docs/vue/)   |    ⠀⠀   ⠀  ⠀   [![MDB Vue](https://mdbootstrap.com/wp-content/uploads/2020/08/bootstraplogo.png)](https://mdbootstrap.com/docs/standard/)   ⠀   ⠀ 
+⠀   ⠀ 
 
 # Quick Start Video
 
-[![Quick Start](https://mdbootstrap.com/wp-content/uploads/2020/05/yt.png)](https://youtu.be/cXTThxoywNQ)
+ <a href="https://youtu.be/cXTThxoywNQ"><img width="700" height="438" src="https://mdbootstrap.com/wp-content/uploads/2020/06/PlayDemo.png"></a>
+
+
+[![Quick Start](https://i.ytimg.com/vi/cXTThxoywNQ/maxresdefault.jpg)](https://youtu.be/cXTThxoywNQ)
 
 According to your preference, you can follow a [video](https://youtu.be/cXTThxoywNQ) or [written version](https://mdbootstrap.com/education/bootstrap/quick-start/)
 
@@ -96,6 +86,33 @@ Also, you can install MDB Free using NPM [installation guide](https://mdbootstra
   </tbody>
 </table>
 
+--------
+
+
+# Demo
+
+### Carousel
+
+<p>A slideshow component for cycling through elements—images or slides of text—like a carousel.</p>
+
+<a href="https://mdbootstrap.com/docs/standard/components/carousel/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-carousel-video.gif">
+  </p>
+</a>
+
+<a href="https://mdbootstrap.com/docs/standard/components/carousel/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-carousel.gif">
+  </p>
+</a>
+
+### Carousel
+
+
+
+
+
 # Supported browsers
 
 MDBootstrap supports the **latest, stable releases** of all major browsers and platforms.
@@ -120,6 +137,8 @@ Similarly, the latest versions of most desktop browsers are supported.
 |:--------------------:|:-----------------------------:|:------------------------------:|:------------------------------:|:----------------------------:|:-------------------------------------------------------------------------:|:------------------------------:|
 | ⠀⠀⠀Mac⠀⠀| Supported | Supported | N/A | N/A |⠀Supported⠀|⠀Supported⠀⠀|
 |⠀⠀⠀Windows⠀  |Supported | Supported | N/A |⠀Supported⠀|⠀Supported⠀|⠀Not supported⠀|
+
+
 
 
 ## Documentation
@@ -150,3 +169,4 @@ Here you'll find more useful resources, like [Getting Started](https://mdbootstr
 - Like our page on [Facebook](https://www.facebook.com/mdbootstrap)
 
 A big ❤️ **thank you to all our users** ❤️ who are working with us to improve the software. We wouldn't be where we are without you. 
+
