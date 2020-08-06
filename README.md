@@ -81,9 +81,6 @@ Also, you can install MDB Free using NPM [installation guide](https://mdbootstra
   </tbody>
 </table>
 
---------
-
-
 # Demo
 
 ### Carousel
